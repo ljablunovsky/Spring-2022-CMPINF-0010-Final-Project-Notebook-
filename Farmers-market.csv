@@ -1,0 +1,86 @@
+market_id,market_type,market_name,address1,city,state,zip_code,latitude,longitude,phone,phone_ext,county
+21,Farm Stand,Beccari's Farm Market,5095 Thomas Run Road,Oakdale,PA,15071,40.3753878,-80.1353771,4122218768,,Allegheny
+51,Farm Market,Carrick Citiparks Farmers Market,1529 Brownsville Road,Pittsburgh,PA,15210,40.3913414,-79.986603,4124226547,,Allegheny
+90,Farm Market,East Liberty Farmers Market,N Euclid Ave & Broad St,Pittsburgh,PA,15026,40.4707688,-79.9228625,,,Allegheny
+92,Farm Stand,Eichner's Farm Market & Greenhouses,285 Richard Road,Wexford,PA,15090,40.608589,-80.061099,7249352131,,Allegheny
+207,Farm Market,Monroeville FM,2399 Tillbrook Rd,Monroeville,PA,15146,40.4183624,-79.763612,7245388621,,Allegheny
+227,Farm Market,Pgh Original Night Farmers Market,151 Park Road,McDonald,PA,15057,40.3712883,-80.2263223,,,Allegheny
+3783,Farm Stand,Green Grocer / Duquesne,35 Grant Avenue,Duquesne,PA,15110,40.373303,-79.845428,,,Allegheny
+3686,Farm Stand,Green Grocer/Monview Heights,48 Midway Dr,West Mifflin,PA,15122,40.398001,-79.8807121,,,Allegheny
+3687,Farm Stand,Green Grocer/Wilmerding Apt,314 Commerce St,Wilmerding,PA,15148,40.3927482,-79.8076205,,,Allegheny
+3688,Farm Stand,Green Grocer/UPMC Matilda Theiss Health Center,373 Burrows St,Pittsburgh,PA,15213,40.442058,-79.9703999,,,Allegheny
+3736,Farm Market,Wilkinsburg Farmers Market,700 Penn Ave,Wilkinsburg,PA,15221,40.4435039,-79.8846689,,,Allegheny
+3753,Farm Market,Hampton Farmers Market,3101 McCully Rd,Allison Park,PA,15101,40.582594,-79.934791,,,Allegheny
+3782,Farm Stand,Green Grocer /Northview Heights,533 Mt Pleasant Rd,Pittsburgh,PA,15214,40.47767,-79.999793,,,Allegheny
+3671,Farm Stand,Renzie Market,Tulip Drive,McKeesport,PA,15132,40.3398434,-79.8289475,,,Allegheny
+3677,Farm Market,Carnegie Farmers Market,Mary & E Main Streets,Carnegie,PA,15106,40.4254803,-80.1408716,,,Allegheny
+3682,Farm Stand,Green Grocer/Lincoln Lemington Belmer,1433 Lincoln Ave ,Pittsburgh,PA,15206,40.468759,-79.896524,,,Allegheny
+3683,Farm Stand,Green Grocer/Sharpsburg Community Library,1212 Main Street,Pittsburgh,PA,15215,40.4943319,-79.9302022,,,Allegheny
+3684,Farm Stand,Green Grocer/Old Shop n' Save Building,1850 Centre Ave,Pittsburgh,PA,15219,40.4427415,-79.9819169,,,Allegheny
+3685,Farm Stand,Green Grocer/Pavillion,Hillsboro St & Sheaden Blvd,Pittsburgh,PA,15204,40.4521866,-80.0584173,,,Allegheny
+3514,Farm Stand,Decarlo's Market,560 MCKeesport Rd,Elizabeth,PA,15037,40.278307,-79.8755899,,,Allegheny
+3515,Farm Stand,Renzie Market,2200 Eden Park Blvd,McKeesport,PA,15132,40.3404079,-79.8272895,,,Allegheny
+3619,Farm Market,Plum Boro,Ross Hollow Road,Pittsburgh,PA,15239,40.5087687,-79.748435,,,Allegheny
+3636,Farm Stand,Garfield Farm Stand,509 Wicklow Street,Pittsburgh,PA,15224,40.4688884,-79.9350143,,,Allegheny
+3643,Farm Market,St James Church,200 Walnut St,Sewickley,PA,15143,,,,,Allegheny
+3666,Farm Market,Lawrenceville Farmers Market,250 40th Street,Lawrenceville,PA,15201,40.4674864,-79.9609184,4128027220,,Allegheny
+3445,Farm Stand,Green Grocer/East Hills Community Center,2291 Wilner Drive,Pittsburgh,PA,15221,,,,,Allegheny
+3446,Farm Stand,Green Grocer/Wilerding Apartments,314 Commerce St,Wilmerding,PA,15148,40.392952,-79.807811,,,Allegheny
+3479,Farm Stand,Pittsbugh Urban Graden project,1612 Steuben Street,Crafton,PA,15205,40.443894,-80.05627,,,Allegheny
+3481,Farm Market,Holy Cross FM,123 Gilkeson Rd,Mt Lebanon,PA,15228,40.3554255,-80.0530258,,,Allegheny
+3482,Farm Market,The Block at Northway,8013 McKnight Rd,Pittsburgh,PA,15237,40.5516087,-80.0209421,,,Allegheny
+3509,Farm Stand,Homewood Farmers Market,7139 Frankstown Ave,PITTSBURGH,PA,15208,40.457764,-79.8968079,,,Allegheny
+3439,Farm Stand,Green Grocer/Family Dollar,533 Miller Ave,Clairton,PA,15025,40.2940195,-79.8832858,,,Allegheny
+3440,Farm Stand,Green Grocer/Sheraden,Sheraden Blvd,Pittsburgh,PA,15204,40.4542013,-80.0539975,,,Allegheny
+3441,Farm Stand,Green Grocer ,Brownsville Rd & Hays Ave,Mt. Oliver,PA,15210,40.4005605,-79.9891649,,,Allegheny
+3442,Farm Stand,Greater Pittsburgh Food Bank,1 N Linden St,Duquesne,PA,15110,40.3757792,-79.8424543,,,Allegheny
+3443,Farm Stand,Green Grocer East Pittsburgh,509 Bessner Ave,East Pittsburgh,PA,15112,40.3991181,-79.8395149,,,Allegheny
+3444,Farm Stand,Green Grocer/Alma Illery Medical Center,7227 Hamilton Ave,Pittsburgh,PA,15208,40.4545441,-79.8962674,,,Allegheny
+3363,Farm Market,Mt Hope Church FM,12106 Frankstown Rd,Penn Hills,PA,15235,40.4707505,-79.8206136,,,Allegheny
+3434,Farm Stand,Green Grocer/Three Rivers Manor,125 Rhine Pl,Pittsburgh,PA,15212,40.4668979,-79.9939924,,,Allegheny
+3435,Farm Stand,Green Grocer/5 Generaltion Bakers,1100 Chartiers Ave,McKees Rocks,PA,15136,40.4655823,-80.0682176,,,Allegheny
+3436,Farm Stand,Green Grocer/Sheraden Library,720 Sherwood Ave,Pittsburgh,PA,15204,40.455194,-80.0565265,,,Allegheny
+3437,Farm Stand,Green Grocer/Woods Run Library,1201 Woods Run Ave,Pittsburgh,PA,15212,40.4762399,-80.0302004,,,Allegheny
+3438,Farm Stand,Green Grocer/GAP park,504 Grant Ave,Pittsburgh,PA,15209,40.4806509,-79.9740449,,,Allegheny
+3171,Farm Market,Swissvale FM,2036 Noble Street,Swissvale,PA,15218,40.4209151,-79.8857961,,,Allegheny
+3172,Farm Market,West Homestead FM,456 W 8th Ave,West Homestead,PA,15120,40.4012136,-79.9173288,,,Allegheny
+3262,Farm Market,Squirrel Hill FM,Bacon & Bartell,Squirrel Hill,PA,15127,40.4347923,-79.9227336,,,Allegheny
+3319,Farm Market,Mount Lebanon,710 Washington Rd,Mt Lebanon,PA,15228,40.3799988,-80.045239,,,Allegheny
+3321,Farm Market,Robinson FM,5718 Steubenville Pike,McKees Rocks,PA,15136,40.4525503,-80.1363663,,,Allegheny
+3333,Farm Stand,Duda's Farm Market,1029 Lebanon Rd,West Mifflin,PA,15122,,,,,Allegheny
+2621,Farm Market,BELLEVUE,34 North Balph Ave,Pittsburgh,PA,15202,40.4962663,-80.0569321,,,Allegheny
+2731,Farm Stand,SHILOH FARM STAND,7206 THOMAS BLVD,PITTSBURGH,PA,15208,40.451059,-79.8993969,,,Allegheny
+2739,Farm Market,Aspinwall FM,250 Freeport RD,Aspinwell,PA,15215,40.4893588,-79.9030552,,,Allegheny
+2743,Farm Market,St John Church,920 Perry Hwy,Pittsburgh,PA,15229,40.533477,-80.035435,,,Allegheny
+2836,Farm Stand,MALLISEE FARM,7838 SALTSBURG RD,PLUM,PA,15239,40.4756284,-79.7647372,,,Allegheny
+3021,Farm Stand,BEDNERS FARM MARKET,1520 BOWER HILL ROAD,UPPER ST CLAIR,PA,15241,40.361279,-80.089355,,,Allegheny
+2217,Farm Market,Shenot Farm Market,3754 Wexford Run Road,Wexford,PA,15090,40.626413,-80.079126,7249352542,,Allegheny
+2379,Farm Market,Braddock Farm Stand,612 Braddock Avenue,Braddock,PA,15104,40.402826,-79.868441,4123624769,,Allegheny
+2402,Farm Market,New Swickley,Broad Street,Sewickley,PA,15143,,,,,Allegheny
+2446,Farm Market,Upper St Clair Farmers Market,2040 Washington Road,Upper St Clair,PA,15241,40.340036,-80.0653899,,,Allegheny
+2486,Farm Market,Verona Farmers Market,736 East Railroad Avenue,Verona,PA,15147,40.505477,-79.844506,4127210943,,Allegheny
+2501,Farm Stand,Tarentum,913 Lock St,Tarentum,PA,15084,40.6030221,-79.7524571,,,Allegheny
+1360,Farm Market,Bethel Park Farmers Market,Corrigan Drive,Bethel Park,PA,15102,40.3191781,-80.0081111,,,Allegheny
+1645,Farm Market,Sewickley Farmers Market,200 Walnut Street,Sewickley,PA,15143,40.5375987,-80.1847631,,,Allegheny
+1666,Farm Stand,Bachman's Farm Market,2905 Freeport Road,Natrona Heights,PA,15065,40.6395268,-79.7111371,7242268095,,Allegheny
+1680,Farm Stand,Misera Edward,Butler  Logan Rd,Tarentum,PA,15084,40.5805077,-79.800098,,,Allegheny
+1819,Farm Market,The Original Farmers Market,151 Park Rd.,McDonald,PA,15057,40.3712883,-80.2263223,7248993438,,Allegheny
+1846,Farm Market,Blackberry Meadows Farm,7115 Ridge Road,Natrona Heights,PA,15065,40.659435,-79.745694,,,Allegheny
+1060,Farm Stand,Soergel Orchards,2573 Brandt School Road,Wexford,PA,15090,40.6153181,-80.0928344,7249351743,,Allegheny
+1485,Farm Market,Bloomfield Farmers Market,5050 Liberty Ave,Pittsburgh,PA,15224,40.4590954,-79.9442895,,,Allegheny
+1538,Farm Market,Green Tree Farmer's Market in the Park,895 Greentree Road,Pittsburgh,PA,15220,40.4233586,-80.0444059,4129211110,,Allegheny
+1477,Farm Stand,Wexford Farms,550 Warrendale Road,Wexford,PA,15090,40.6520911,-80.0562206,7246251635,,Allegheny
+1512,Farm Stand,Dillner Family Farm,4140/Sandy Hill Road,Gibsonia,PA,15044,40.6681675,-79.9237499,7244446594,,Allegheny
+1579,Farm Stand,Olde World Produce,1206 State Route 51,Jefferson Hills,PA,15025,40.312175,-79.93862,,,Allegheny
+428,Farm Market,North Side Farmers Market,East Ohio St. amd Cedar Ave.,Pittsburgh,PA,15212,40.5167764,-80.030741,4124226523,,Allegheny
+489,Farm Market,Farmers Market Cooperative of East Liberty,344 North Sheridan Avenue,Pittsburgh,PA,15206,40.4644172,-79.9214983,4126611875,,Allegheny
+545,Farm Market,Mt Lebanon Farmers Market,975 Washington Road,Pittsburgh,PA,15228,40.374029,-80.047817,4127205163,,Allegheny
+819,Farm Stand,Harvest Valley Farm Market & Bakery,6003 Cunningham Road,Gibsonia,PA,15044,40.66388,-79.937014,7248983276,,Allegheny
+929,Farm Market,Forest Hills Farmers Market,1840 Ardmore Blvd,Forest Hills,PA,15221,40.4249212,-79.8611049,7243391709,,Allegheny
+928,Farm Stand,Bridge's Farm and Greenhouses,7108 Leechburg Road,New Kensington,PA,15068,40.5128978,-79.7632284,7243391709,,Allegheny
+242,Farm Market,Pittsburgh Market Square,Market Square,Pittsburgh,PA,15222,40.4404983,-80.0029492,,,Allegheny
+296,Farm Market,Southside Farmers Market,18th and Carson Streets,Pittsburgh,PA,15203,40.4287528,-79.980545,,,Allegheny
+303,Farm Stand,Sturges Orchards,1734 Penn Ave,Pittsburgh,PA,15222,40.450203,-79.9848674,7247528920,,Allegheny
+317,Farm Stand,Triple B Farms,823 Berry Lane,Monongahela,PA,15063,40.227675,-79.946589,7242583557,,Allegheny
+406,Farm Stand,Janoski's Farm,1714 Route 30,Clinton,PA,15026,40.6308623,-79.8263713,7248993438,,Allegheny
+425,Farm Market,Moon Farmers Market,1350 Joe DeNardo Way,Moon Township,PA,15108,40.4910599,-80.1845679,4122621700,,Allegheny
