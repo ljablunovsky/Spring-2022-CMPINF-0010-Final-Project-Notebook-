@@ -1,5 +1,5 @@
 # Spring-2022-CMPINF-0010-Final-Project-Notebook-
-## GROUP NAME HERE 
+## Panda Bears!
 Lauren Jablunovsky: lej42@pitt.edu
 
 Shreya Agrawal: sha94@pitt.edu
@@ -19,5 +19,8 @@ This dataset gives information about the current or most recent farmer's markets
 ## Medical Access
 
 ## Fitness
+https://data.wprdc.org/dataset/city-steps/resource/43f40ca4-2211-4a12-8b4f-4d052662bb64
+https://data.wprdc.org/dataset/parks/resource/fa329e3d-89ff-4708-8ddf-81bfedcad11d
 
+The first dataset gives information about all the steps and stairways in Pittsburgh. The second dataset gives infor
 
