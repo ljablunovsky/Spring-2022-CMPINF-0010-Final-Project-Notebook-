@@ -1,5 +1,6 @@
 # Spring-2022-CMPINF-0010-Final-Project-Notebook-
-## Team Panda Bears!
+## Team Panda Bears! 
+## Group 62
 Lauren Jablunovsky: lej42@pitt.edu
 
 Shreya Agrawal: sha94@pitt.edu
