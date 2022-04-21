@@ -22,5 +22,5 @@ This dataset gives information about the current or most recent farmer's markets
 https://data.wprdc.org/dataset/city-steps/resource/43f40ca4-2211-4a12-8b4f-4d052662bb64
 https://data.wprdc.org/dataset/parks/resource/fa329e3d-89ff-4708-8ddf-81bfedcad11d
 
-The first dataset gives information about all the steps and stairways in Pittsburgh. The second dataset gives infor
+The first dataset gives information about all the steps and stairways in Pittsburgh. The second dataset gives information about the parks in Pittsburgh.
 
