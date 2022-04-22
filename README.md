@@ -1,11 +1,11 @@
 # Spring-2022-CMPINF-0010-Final-Project-Notebook-
 ## Team Panda Bears! 
 ## Group 62
-Lauren Jablunovsky: lej42@pitt.edu
+Lauren Jablunovsky: lej42@pitt.edu (personal notebook: lauren-final-project-personal-notebook)
 
-Shreya Agrawal: sha94@pitt.edu
+Shreya Agrawal: sha94@pitt.edu (personal notebook: FitnessRecreation)
 
-Paul Desaro: psd18@pitt.edu
+Paul Desaro: psd18@pitt.edu (personal notebook: )
 
 Welcome to our repo for our final project in Big Ideas! Our goal was the find the best neighborhood in Pittsburgh based on the overall metric of the healthiest neighborhood in PGH. To determine the healthiest neighborhood, we looked at three individual submetrics including nutrition, access to medical care, and opportunites for physical activity in the Pittsburgh neighborhoods.
 
