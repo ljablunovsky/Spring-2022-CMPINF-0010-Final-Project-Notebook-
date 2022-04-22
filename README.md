@@ -5,7 +5,7 @@ Lauren Jablunovsky: lej42@pitt.edu (personal notebook: lauren-final-project-pers
 
 Shreya Agrawal: sha94@pitt.edu (personal notebook: FitnessRecreation)
 
-Paul Desaro: psd18@pitt.edu (personal notebook: )
+Paul Desaro: psd18@pitt.edu (personal notebook: CovidSaftey)
 
 Welcome to our repo for our final project in Big Ideas! Our goal was the find the best neighborhood in Pittsburgh based on the overall metric of the healthiest neighborhood in PGH. To determine the healthiest neighborhood, we looked at three individual submetrics including nutrition, access to medical care, and opportunites for physical activity in the Pittsburgh neighborhoods.
 
@@ -18,6 +18,10 @@ https://data.wprdc.org/dataset/allegheny-county-farmers-markets-locations/resour
 This dataset gives information about the current or most recent farmer's markets in Allegheny County.
 
 ## Medical Access
+
+https://data.wprdc.org/datastore/dump/96cf8cdc-2b8e-43cb-b20b-443f236bcc60
+
+This Dataset give information of covid vaccinations in Allegheny County
 
 ## Fitness
 https://data.wprdc.org/dataset/city-steps/resource/43f40ca4-2211-4a12-8b4f-4d052662bb64
